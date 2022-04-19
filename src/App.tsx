@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          branch nong yu fang tang noon
+          bran nong yu fang tang noon
         </a>
       </header>
     </div>
