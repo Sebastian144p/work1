@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          dee ja
+          bran nong yu fang tang noon
         </a>
       </header>
     </div>
